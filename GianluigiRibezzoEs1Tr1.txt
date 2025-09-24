@@ -1,0 +1,14 @@
+1) <fieldset>
+• Descrizione: Questo tag è utilizzato per raggruppare in modo logico tutti gli elementi di un modulo (<form>). Tipicamente, il tag <fieldset> disegna un box intorno a questi elementi, rendendo più chiara la loro relazione. È utile per migliorare l'accessibilità e l'organizzazione visiva.
+
+2) <legend>
+• Descrizione: Utilizzato all'interno di un <fieldset>, il tag <legend> fornisce un titolo o una descrizione per il gruppo di elementi contenuti nel <fieldset>. Questo aiuta gli utenti a comprendere meglio il contenuto del modulo.
+
+3) <wbr>
+• Descrizione: Il tag <wbr> (Word Break Opportunity) indica al browser dove è possibile interrompere una parola per andare a capo. È utile per migliorare la leggibilità di testi lunghi in situazioni in cui lo spazio è limitato, come in dispositivi mobili.
+
+4) <progress>
+• Descrizione: Utilizzato per rappresentare il progresso di un'operazione in corso, come il caricamento di un file o il completamento di un'attività. Può mostrare visivamente il progresso in percentuale, rendendo l'interazione più intuitiva per l'utente.
+
+5) <textarea>
+• Descrizione: Definisce un'area di testo multilinea per l'input di testo. Permette di inserire grandi quantità di testo, come commenti o descrizioni.
